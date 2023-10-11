@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 💪 I'm a Python developer
 - 🔭 I’m currently working on some private projects that i will release soon
-- 🌱 I’m currently learning cybersecurity and web development
+- 🌱 I’m currently learning cybersecurity, web development and games development (for fun 😅)
 - 👯 I’m looking to collaborate on cybersecurity and backend development
 - ⚡ Fun fact: I'm really n0ob
 

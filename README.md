@@ -5,3 +5,4 @@
 - 👯 I’m looking to collaborate on cybersecurity and backend development
 - ⚡ Fun fact: I'm really n0ob
 
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,blender,unreal,c,cpp,py,django,flask,html,css,postgres,sqlite)](https://skillicons.dev)

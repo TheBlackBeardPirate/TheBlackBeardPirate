@@ -20,7 +20,8 @@ Currently, I'm developing a complete ERP system focused on clean architecture an
 
 ## 📚 Currently learning
 
-- Node.js                                  - Express
+- Node.js
+- Express
 - PostgreSQL
 - MongoDB
 - Docker

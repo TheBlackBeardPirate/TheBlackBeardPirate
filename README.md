@@ -30,7 +30,7 @@ Currently, I'm developing a complete ERP system focused on clean architecture an
 
 ## 🛠 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,cpp,py,django,html,css,js,nodejs,express,postgres,mongo,sqlite,git,github,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,bash,py,django,html,css,js,nodejs,express,nginx,postgres,mongo,sqlite,git,github,docker,postman)](https://skillicons.dev)
 
 ## 📜 Certifications
 
